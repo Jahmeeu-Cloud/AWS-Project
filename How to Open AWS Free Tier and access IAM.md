@@ -1,5 +1,4 @@
-
-			
+		
 
 <u>My Project Article</u>
 

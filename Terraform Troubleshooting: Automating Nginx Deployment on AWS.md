@@ -106,4 +106,3 @@ After four hours of debugging, I walked away with these key lessons:
 This experience reinforced my problem-solving skills in AWS and Terraform. Automation is powerful, but **understanding how cloud-init and Terraform interact is crucial**. Now, my Terraform script reliably provisions EC2 instances with fully automated Nginx deployment.
 
 🔹 Have you faced similar Terraform issues? Let’s discuss in the comments! 🚀
-
